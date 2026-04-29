@@ -1,0 +1,39 @@
+# 公式A
+1. 悬停功耗与重量关系：
+
+$$
+P_{hover} \propto W^{3/2}
+$$
+
+2. 悬停诱导功率公式：
+
+$$
+P_{induced} = \frac{T^{3/2}}{\sqrt{2\rho A}}
+$$
+
+3. 续航时长计算公式：
+
+$$
+t_{flight} = \frac{C_{battery} \times U_{avg}}{P_{avg}}
+$$
+
+4. 多旋翼诱导功率修正公式：
+
+$$
+P_{induced, multi} = k \cdot P_{induced, single}
+$$
+
+5. 寄生阻力功耗公式：
+
+$$
+P_{drag} = \frac{1}{2}\rho V^3 C_D A
+$$
+
+## 示例
+句子A $\cos A = \sin b$ 公式
+
+想要大一点居中的
+
+$$
+\coa A = \sin B
+$$
