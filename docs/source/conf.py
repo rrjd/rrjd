@@ -26,9 +26,9 @@ extensions = ["sphinx_inline_tabs",
 'sphinx_design'
 ## change required >>>
 #’sphinxcontrib-mermaid‘,
-#'sphinx.ext.mathjax',
+'sphinx.ext.mathjax',
 ]
-#mathjax_path = 'tex-svg-full.js'
+mathjax_path = 'tex-svg.js'
 ## change required <<<
 
 # uncomment the two lines upon to have extendsions. 
