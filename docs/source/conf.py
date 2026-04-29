@@ -23,10 +23,10 @@ extensions = ["sphinx_inline_tabs",
 'sphinx_copybutton',
 'myst_parser',
 'sphinx.ext.githubpages',
-'sphinx_design'
+'sphinx_design',
 ## change required >>>
 #’sphinxcontrib-mermaid‘,
-'sphinx.ext.mathjax',
+'sphinx.ext.mathjax'
 ]
 mathjax_path = 'tex-svg.js'
 ## change required <<<
